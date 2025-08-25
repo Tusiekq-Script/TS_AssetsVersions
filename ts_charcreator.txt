@@ -1,4 +1,2 @@
-{
-  "version": "1.0.2",
-  "news": "Dodano nowe fryzury w kreatorze postaci"
-}
+{ "version":"1.0.2","news":"Dodano nowe fryzury w kreatorze postaci"}
+
