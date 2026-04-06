@@ -1,1 +1,1 @@
-{"version":"1.0.0","news":"Version 1.0"}
+{"version":"1.0.1","news":"More quests added"}
