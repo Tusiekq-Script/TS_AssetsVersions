@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"New Langs: Italian, French, Chinese, German, Spanish, Hungarian, Arabic, Japanese, Portuguese, Swedish, Chinese Traditional"}
+{"version":"1.0.1","news":"New Lang: Italian, French, Chinese, German, Spanish, Hungarian, Arabic, Japanese, Portuguese, Swedish, Chinese Traditional"}
