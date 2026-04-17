@@ -1,1 +1,1 @@
-{"version":"1.0.1","news":"More quests added"}
+{"version":"1.0.2","news":"Fixed a bug during grape crushing where the crushed grapes item was not being added"}
