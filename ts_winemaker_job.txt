@@ -1,1 +1,1 @@
-{"version":"1.0.2","news":"Fixed a bug during grape crushing where the crushed grapes item was not being added"}
+{"version":"1.0.3","news":"The bug that occurred during wine production has been fixed. It caused the wine object in the pot to remain visible when pouring the wine, specifically when lifting the pot with the wine"}
