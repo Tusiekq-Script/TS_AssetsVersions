@@ -1,1 +1,4 @@
-{"version":"1.0.3","news":"The bug that occurred during wine production has been fixed. It caused the wine object in the pot to remain visible when pouring the wine, specifically when lifting the pot with the wine"}
+{"version":"1.0.4","news":"Added the ability to produce white wine
+Added the ability to pack white wine into crates
+Added the ability to sell white wine and crates of white wine
+Added new props"}
