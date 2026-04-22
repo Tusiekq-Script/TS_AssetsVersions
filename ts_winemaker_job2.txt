@@ -1,1 +1,4 @@
-{"version":"1.0.4","news":"Added the ability to produce white wine Added the ability to pack white wine into crates Added the ability to sell white wine and crates of white wine Added new props"}
+{
+  "version": "1.0.4",
+  "news": "Added the ability to produce white wine\nAdded the ability to pack white wine into crates\nAdded the ability to sell white wine and crates of white wine\nAdded new props"
+}
