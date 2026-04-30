@@ -1,1 +1,1 @@
-{"version":"1.2.0","news":"\n- Added the ability to produce white wine\n- Added the ability to pack white wine into crates\n- Added the ability to sell white wine and crates of white wine\n- Added new sounds\n- Added new props"}
+{"version":"1.2.1","news":"\n- The bug related to the QBox framework has been fixed"}
