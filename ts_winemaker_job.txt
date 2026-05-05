@@ -1,1 +1,1 @@
-{"version":"1.2.1","news":"\n- The bug related to the QBox framework has been fixed"}
+{"version":"1.2.2","news":"\n- Added an option to disable or enable the message about loading props"}
